@@ -75,7 +75,7 @@ template VoteCountLimit() {
 6. Monitor the implementation for any issues.
 
 ## Contact Information
-For questions or clarification regarding these findings, please reach out to [Your Contact Information].
+For questions or clarification regarding these findings, please reach out to [utitofonudoekong0@gmail.com].
 
 ## License
 This security report is submitted under the terms of the bug bounty program. All rights reserved.
